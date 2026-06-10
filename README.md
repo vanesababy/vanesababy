@@ -1,44 +1,90 @@
-<h1 align="center">Hi 👋, Soy Jessica Vanesa Acosta Galindez</h1>
-<h3 align="center">Analista de Desarrollo TIC | Estudiante de Ingeniería Informática | Sector Salud</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jessica%20Vanesa%20Acosta&fontSize=60&fontAlignY=35&desc=TIC%20Development%20Analyst%20%7C%20Software%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Header Banner" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;Laravel+%26+PHP+Expert;Explorando+Machine+Learning;Flutter+Mobile+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/vanesababy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vanesagalindez318@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vanesababy">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ Transformando lógica en soluciones tecnológicas de alto impacto</h3>
+</div>
 
 ---
 
-### 👩‍💻 Sobre Mí
-- 🔭 Actualmente trabajo como **Analista de desarrollo TIC** en el sector salud (AG SALUD SAS) con más de 3 años de experiencia.
-- 🌱 Estoy cursando mi **7mo semestre de Ingeniería Informática** (Colegio Mayor del Cauca) y soy Tecnóloga del SENA.
-- 💡 Me especializo en **Desarrollo Web y Móvil**, creando soluciones tecnológicas eficientes, responsivas y de alto impacto.
-- 🚀 Actualmente incursionando y aprendiendo sobre **Redes Neuronales y Machine Learning** con Python.
-- 🤝 Mis fortalezas: Trabajo en Equipo, Metodologías Ágiles, Comunicación Asertiva y Adaptabilidad.
+### 🚀 Sobre mi trayectoria profesional
 
-### 🛠️ Tecnologías y Herramientas
+Soy una profesional enfocada a resultados y orientada a la calidad del código, con sólida experiencia en el **sector salud** desarrollando plataformas críticas (AG SALUD SAS). Mi enfoque principal es la construcción de arquitecturas limpias, la eficiencia y la constante evolución tecnológica.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Iconos de tecnologías usando SkillIcons (Diseño moderno) -->
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,java,spring,dart,flutter,mysql,sqlite,git,github,gitlab,vscode,bootstrap,html,css" />
-  </a>
-</p>
+- 🎓 **Formación:** Estudiante de 7mo semestre de **Ingeniería Informática** en el Colegio Mayor del Cauca y Tecnóloga en Desarrollo de Software por el SENA.
+- 💡 **Experiencia:** Más de 3 años estructurando aplicaciones web/móviles robustas y liderando la adaptación de nuevas tecnologías.
+- 🔬 **Intereses actuales:** Explorando y especializándome en el fascinante mundo del **Machine Learning y Redes Neuronales** utilizando Python.
+- 🎯 **Soft Skills:** Metodologías Ágiles (Scrum), Trabajo Colaborativo, Pensamiento Analítico y Comunicación Efectiva.
 
-### 📊 Mis Estadísticas en GitHub
+---
 
-<p align="center">
-  <!-- Estadísticas de GitHub con diseño Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vanesababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vanesa's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanesababy&theme=tokyonight&hide_border=true&background=0D1117" alt="Vanesa's GitHub Streak" width="48%"/>
-</p>
+### 💻 Stack y Arsenal Tecnológico
 
-<p align="center">
-  <!-- Lenguajes Top -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanesababy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h4>Backend & Data</h4>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring,mysql,sqlite&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <h4>Frontend Web</h4>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <h4>Desarrollo Móvil</h4>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=dart,flutter,firebase&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <h4>DevOps & Tools</h4>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux&perline=3" />
+    </td>
+  </tr>
+</table>
 
-### 📫 Contáctame
-<p align="center">
-  <a href="mailto:vanesagalindez318@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
+
+### 📈 Métricas y Desempeño en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanesababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanesababy&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanesababy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 Actividad de Contribuciones
+
+<div align="center">
+  <i>El gráfico se actualiza diariamente y mostrará a la serpiente recorriendo mis commits.</i>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanesababy/vanesababy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanesababy/vanesababy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanesababy/vanesababy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
