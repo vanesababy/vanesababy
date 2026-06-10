@@ -60,18 +60,6 @@ Soy una profesional enfocada a resultados y orientada a la calidad del código, 
   </tr>
 </table>
 
----
 
-### 📈 Métricas y Desempeño en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanesababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Stats" width="60%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanesababy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
 
 
