@@ -65,8 +65,7 @@ Soy una profesional enfocada a resultados y orientada a la calidad del código, 
 ### 📈 Métricas y Desempeño en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanesababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanesababy&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanesababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Stats" width="60%" />
 </div>
 
 <br/>
@@ -75,16 +74,4 @@ Soy una profesional enfocada a resultados y orientada a la calidad del código, 
   <img src="https://github-profile-trophy.vercel.app/?username=vanesababy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
----
 
-### 🐍 Actividad de Contribuciones
-
-<div align="center">
-  <i>El gráfico se actualiza diariamente y mostrará a la serpiente recorriendo mis commits.</i>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanesababy/vanesababy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanesababy/vanesababy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanesababy/vanesababy/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
